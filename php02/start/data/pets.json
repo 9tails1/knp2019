@@ -29,5 +29,29 @@
         "bio": "Treats and Snoozin!",
         "image": "pancake.png",
         "breed": "Bulldog"
+    },
+    {
+        "name": "Dunmar",
+        "breed": "Rott",
+        "weight": "40",
+        "bio": "Will rip your throat out and laugh at you",
+        "age": "",
+        "image": ""
+    },
+    {
+        "name": "Fido",
+        "breed": "Pup",
+        "weight": "10",
+        "bio": "Cute pup",
+        "age": "",
+        "image": ""
+    },
+    {
+        "name": "Kong",
+        "breed": "Ape",
+        "weight": "50",
+        "bio": "Empire state!",
+        "age": "",
+        "image": ""
     }
 ]

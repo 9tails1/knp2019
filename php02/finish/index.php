@@ -1,7 +1,7 @@
 <?php
     require 'lib/functions.php';
 
-    $pets = get_pets();
+    $pets = getPets();
 
     $pets = array_reverse($pets);
 

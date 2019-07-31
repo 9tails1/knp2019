@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $bio = '';
     }
 
-    $pets = get_pets();
+    $pets = getPets();
     $newPet = array(
         'name' => $name,
         'breed' => $breed,
