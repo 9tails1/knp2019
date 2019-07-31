@@ -95,7 +95,15 @@ $pupCount = count($pets);
                     <span class="label label-info">
                         <?php echo $cutepet['breed'] ?>
                     </span>
-                    <?php echo $cutepet['age '] ?>
+                    <?php
+                    if ($cutepet['age'] == 'hidden') {
+                        echo 'Contact owner for age';
+                    } elseif (array_key_exists('age', $cutepet) && $cutepet['age'] != '') {
+                        echo $cutepet['age'];
+                    } else {
+                        echo "Unknown";
+                    }
+                    ?>
                     <?php echo $cutepet['weight'] ?> lbs
                 </blockquote>
                 <p>
