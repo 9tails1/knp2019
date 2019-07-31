@@ -1,3 +1,11 @@
+<?php
+$petJson = file_get_contents('data/pets.json');
+$pets = json_decode($petJson, true);
+$pets = array_reverse($pets);
+
+$cleverWelcomeMessage = 'All the love, none of the crap';
+$pupCount = count($pets);
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,11 +73,6 @@
 
     <div class="jumbotron">
         <div class="container">
-            <?php
-                $cleverWelcomeMessage = 'All the love, none of the crap';
-                $pupCount = rand(0,50);
-            ?>
-
             <h1><?php echo strtoupper(strtolower($cleverWelcomeMessage)); ?></h1>
 
             <p>Over <?php echo $pupCount ?> pet friends</p>
@@ -77,29 +80,44 @@
             <p><a class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
         </div>
     </div>
+
+
 <pre class="dump">
-    <?php
-        $pets = ['Chew Barka','Spark Pug','Pico de Gato'];
-        var_dump($pets);
-    ?>
+    <?php //var_dump($pets);die() ?>
 </pre>
     <div class="container">
         <div class="row">
-            <?php
-                foreach ($pets as $pet) {
-                    echo '<div class="col-lg-4">';
-                    echo '<h2>';
-                    echo $pet;
-                    echo'</h2>';
-
-                    echo '<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-                        condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis
-                        euismod. Donec sed odio dui. </p>';
-
-                    echo '<p><a class="btn btn-default" href="#">View details &raquo;</a></p>';
-                    echo '</div>';
-                }
-            ?>
+            <?php foreach ($pets as $cutepet) { ?>
+            <div class="col-md-4 pet-list-item">
+                <h2><?php echo $cutepet['name']; ?></h2>
+                <img src="images/<?php echo $cutepet['filename']?>"  class="img-rounded">
+                <blockquote class="pet-details">
+                    <span class="label label-info">
+                        <?php echo $cutepet['breed'] ?>
+                    </span>
+                    <?php echo $cutepet['age '] ?>
+                    <?php echo $cutepet['weight'] ?> lbs
+                </blockquote>
+                <p>
+                    <?php echo $cutepet['bio'] ?>
+                </p>
+            </div>
+            <?php }?>
+<!--            --><?php
+//                foreach ($pets as $cutepet) {
+//                    echo '<div class="col-lg-4">';
+//                    echo '<h2>';
+//                    echo $cutepet['name'];
+//                    echo'</h2>';
+//
+//                    echo '<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+//                        condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis
+//                        euismod. Donec sed odio dui. </p>';
+//
+//                    echo '<p><a class="btn btn-default" href="#">View details &raquo;</a></p>';
+//                    echo '</div>';
+//                }
+//            ?>
         </div>
 
         <hr>
