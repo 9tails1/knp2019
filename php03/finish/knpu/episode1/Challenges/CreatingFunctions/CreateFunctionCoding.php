@@ -66,7 +66,7 @@ EOF
 
     public function getWorkerConfig(WorkerLoaderInterface $loader)
     {
-        return $loader->load(__DIR__.'/../php_worker.yml');
+        return $loader->load(__DIR__ . '/../php_worker.yml');
     }
 
     public function setupContext(CodingContext $context)
