@@ -1,9 +1,7 @@
 <?php
     require 'lib/functions.php';
 
-    $pets = get_pets();
-
-    $pets = array_reverse($pets);
+    $pets = array_reverse(getPets(3));
 
     $cleverWelcomeMessage = 'All the love, none of the crap!';
     $pupCount = count($pets);

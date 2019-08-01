@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $bio = '';
     }
 
-    $pets = get_pets();
+    $pets = getPets();
     $newPet = array(
         'name' => $name,
         'breed' => $breed,
@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     );
     $pets[] = $newPet;
 
-    save_pets($pets);
+    savePets($pets);
 
     header('Location: /');
     die;

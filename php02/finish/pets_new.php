@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     );
     $pets[] = $newPet;
 
-    save_pets($pets);
+    savePets($pets);
 
     header('Location: /');
     die;
