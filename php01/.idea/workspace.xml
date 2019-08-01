@@ -1,249 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f2ed86-a394-4917-bf93-acb528681e32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../knp2019.access.log" beforeDir="false" afterPath="$PROJECT_DIR$/../knp2019.access.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../knp2019.error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../knp2019.error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array2-adding-new-indexed-entry.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array2-adding-new-indexed-entry.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-accessing-keys.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-accessing-keys.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-add-pet1-3-arrays.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-add-pet1-3-arrays.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-array-reverse.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-array-reverse.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-count-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-count-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-moving-all-logic-to-the-top.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-moving-all-logic-to-the-top.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-using-cutepet-key.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-using-cutepet-key.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-using-foreach-for-all-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-using-foreach-for-all-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/array3-var-dump-multi-dimensional-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/array3-var-dump-multi-dimensional-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/arrays2-adding-breed-key-later.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/arrays2-adding-breed-key-later.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/arrays2-associative.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/arrays2-associative.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/arrays2-creating-pancake-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/arrays2-creating-pancake-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-first-echo.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-first-echo.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-fix-syntax.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-fix-syntax.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-number-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-number-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-open-php-tag.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-open-php-tag.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-print-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-print-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-syntax-error.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-syntax-error.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/basics-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/basics-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/config-rename-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/config-rename-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/config-return-from-config-php.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/config-return-from-config-php.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/create-function-add-real-get-pets-body.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/create-function-add-real-get-pets-body.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/create-function-create-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/create-function-create-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/create-function-return-a-value.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/create-function-return-a-value.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/create-function-use-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/create-function-use-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-calling-query-like-a-flat-function.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-calling-query-like-a-flat-function.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-create-configuration-file.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-create-configuration-file.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-dumping-pdo.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-dumping-pdo.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-first-query.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-first-query.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-moving-db-logic-to-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-moving-db-logic-to-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-new-pdo.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-new-pdo.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-removing-debug-code.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-removing-debug-code.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/db-using-query-instead-of-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/db-using-query-instead-of-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-add-bootstrap-layout.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-add-bootstrap-layout.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-add-form-tag.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-add-form-tag.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-build-html-form.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-build-html-form.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-create-pets-new-php.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-create-pets-new-php.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-header-links.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-header-links.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-pets-new-php-header-footer.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-pets-new-php-header-footer.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-array-key-exists.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-array-key-exists.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-checking-for-request-methdo.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-checking-for-request-methdo.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-dump-each-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-dump-each-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-isset-instead.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-isset-instead.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-isset-on-all-fields.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-isset-on-all-fields.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-var-dump-invented-var.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-var-dump-invented-var.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-var-dump-post.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-var-dump-post.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/form-submit-var-dump-server.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/form-submit-var-dump-server.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-call-order-with-strtoupper.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-call-order-with-strtoupper.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-fxns-in-your-fxns-strrev.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-fxns-in-your-fxns-strrev.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-misisng-arg-error.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-misisng-arg-error.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-rand-2-arguments.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-rand-2-arguments.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-rand-with-argument.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-rand-with-argument.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-reverting-to-one-line.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-reverting-to-one-line.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-ucwords.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-ucwords.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-using-multiple-lines-vars.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-using-multiple-lines-vars.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-using-rand.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-using-rand.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/functions-using-strtolower-with-an-echo.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/functions-using-strtolower-with-an-echo.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/geget-pet-removing-test-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/geget-pet-removing-test-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/get-pet-add-the-function.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/get-pet-add-the-function.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/get-pet-create-the-function.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/get-pet-create-the-function.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/get-pet-finishing-get-pet-query-execution.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/get-pet-finishing-get-pet-query-execution.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/get-pet-try-using-an-outside-variable.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/get-pet-try-using-an-outside-variable.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-array-key-exists.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-array-key-exists.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-else-for-inner-if.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-else-for-inner-if.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-elseif.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-elseif.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-fix-syntax.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-fix-syntax.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-if-with-just-true.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-if-with-just-true.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-look-for-hidden-age.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-look-for-hidden-age.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-middle-part-of-elseif.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-middle-part-of-elseif.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-multi-level-if.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-multi-level-if.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-remove-age-key-from-json.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-remove-age-key-from-json.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-set-key-to-blank.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-set-key-to-blank.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-using.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-using.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/if-with-else.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/if-with-else.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-changing-contact-page.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-changing-contact-page.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-new-functions-php-require.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-new-functions-php-require.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-require-index-php.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-require-index-php.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-require-once.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-require-once.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-require.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-require.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/include-use-get-pets-on-contact-php.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/include-use-get-pets-on-contact-php.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-bad-filename.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-bad-filename.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-changing-filename-key-to-image.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-changing-filename-key-to-image.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-dumping-out-json-encode.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-dumping-out-json-encode.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-file-get-contents.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-file-get-contents.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-json-decode-as-associative-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-json-decode-as-associative-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-json-decode.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-json-decode.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-move-file-into-data.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-move-file-into-data.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/json-using-the-file-json-for-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/json-using-the-file-json-for-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/layout-create-and-use-header-footer.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/layout-create-and-use-header-footer.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/limit-add-argument-with-sql-injection.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/limit-add-argument-with-sql-injection.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/limit-hardcode-limit-3.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/limit-hardcode-limit-3.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-add-a-number-into-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-add-a-number-into-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-change-foreach-var-name.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-change-foreach-var-name.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-create-empty-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-create-empty-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-first-foreach.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-first-foreach.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-playing-with-indexes.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-playing-with-indexes.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-print-out-3-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-print-out-3-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-put-pets-in-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-put-pets-in-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-remove-14-from-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-remove-14-from-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-remove-bad-index.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-remove-bad-index.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-undefined-index.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-undefined-index.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/loops-var-dump.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/loops-var-dump.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/new-page-create-contact-php.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/new-page-create-contact-php.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/optional-arg-pass-0-to-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/optional-arg-pass-0-to-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/optional-default-limit-null.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/optional-default-limit-null.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/optional-make-argument-optional.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/optional-make-argument-optional.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/optional-only-using-limit-in-if.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/optional-only-using-limit-in-if.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/redirect-header-and-die.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/redirect-header-and-die.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/reorg-call-save-pets-with-argument.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/reorg-call-save-pets-with-argument.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/reorg-create-save-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/reorg-create-save-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/reorg-guts-of-save-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/reorg-guts-of-save-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/reorg-passing-string-to-save-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/reorg-passing-string-to-save-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/reorg-save-pets-argument.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/reorg-save-pets-argument.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/rreorg-full-working-save-pets-process.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/rreorg-full-working-save-pets-process.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-add-pet-to-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-add-pet-to-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-adding-missing-require.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-adding-missing-require.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-create-new-pet-array.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-create-new-pet-array.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-json-encode-and-file-put-contents.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-json-encode-and-file-put-contents.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/saving-json-pretty-print.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/saving-json-pretty-print.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/show-page-creating-show-page-and-link.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/show-page-creating-show-page-and-link.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/show-page-dump-get.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/show-page-dump-get.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/show-page-fill-out-html-guts.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/show-page-fill-out-html-guts.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/show-page-get-get-id.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/show-page-get-get-id.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-errors-setting-attr-errmode.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-errors-setting-attr-errmode.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-errors-setting-param-as-integer.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-errors-setting-param-as-integer.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-injection-dumping-query.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-injection-dumping-query.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-injection-get-pet-prepared-statement.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-injection-get-pet-prepared-statement.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-injection-get-pets.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-injection-get-pets.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/sql-injection-show-example.diff" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/sql-injection-show-example.diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tuts/steps.json" beforeDir="false" afterPath="$PROJECT_DIR$/_tuts/steps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pancake.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pancake.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pet1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pet1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pet2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pet2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pet3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pet3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/html5shiv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/respond.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/respond.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/AddNewKeyCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/AddNewKeyCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/ConvertToAssociativeCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/ConvertToAssociativeCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/GuessAutoKeyMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays2/GuessAutoKeyMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/CountAndVariableReorderCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/CountAndVariableReorderCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/ForeachAssociativeCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/ForeachAssociativeCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/MultiArrayKeysCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Arrays3/MultiArrayKeysCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/ArrayKeysMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/ArrayKeysMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/CreateArrayCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/CreateArrayCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/ForEachCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/ForEachCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/VarDumpCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/ArraysLoops/VarDumpCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/CreatingFunctions/CreateFunctionCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/CreatingFunctions/CreateFunctionCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/CreatingFunctions/FunWithCommentsMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/CreatingFunctions/FunWithCommentsMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/FilePutContentsCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/FilePutContentsCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/JsonEncodeMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/JsonEncodeMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/ReadFileJsonDecodeCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/FilesJsonBooleans/ReadFileJsonDecodeCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/NestedFunctionsMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/NestedFunctionsMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/ReverseAndLowercaseCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/ReverseAndLowercaseCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/UseRandFunctionCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/Functions/UseRandFunctionCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/FixErrorsIfElseCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/FixErrorsIfElseCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/IfElseIfElseCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/IfElseIfElseCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/IfNoToyColorCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/IfStatement/IfNoToyColorCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/CreateVariableCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/CreateVariableCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/FixMissingSemicolonCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/FixMissingSemicolonCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/JobOfEchoMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/JobOfEchoMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/OpenPhpMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/OpenPhpMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/SimpleEchoCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/LetsWritePhp/SimpleEchoCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/RequireInclude/IsolateFunctionUseRequireCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/RequireInclude/IsolateFunctionUseRequireCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/RequireInclude/NoClosingPhpTagMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/RequireInclude/NoClosingPhpTagMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/SimpleLayout/LayoutWithRequireCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/SimpleLayout/LayoutWithRequireCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/SimpleLayout/RequireAndVariablesMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/SimpleLayout/RequireAndVariablesMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/SystemSetup/DnsFairyMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/SystemSetup/DnsFairyMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/SystemSetup/LocalhostPortFilenameMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/SystemSetup/LocalhostPortFilenameMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/Challenges/php_worker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/Challenges/php_worker.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/ERRATA.md" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/ERRATA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/arrays-loops.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/arrays-loops.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/arrays2.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/arrays2.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/arrays3.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/arrays3.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/creating-functions.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/creating-functions.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/files-json-booleans.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/files-json-booleans.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/functions.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/functions.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/if-statement.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/if-statement.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/lets-write-php.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/lets-write-php.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/metadata.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/metadata.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/php-ep1.png" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/php-ep1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/require-include.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/require-include.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/simple-layout.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/simple-layout.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode1/system-setup.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode1/system-setup.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/FormSubmitRedirectMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/FormSubmitRedirectMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/RedirectResponseMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/RedirectResponseMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/RedirectUserToyListCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ArtOfRedirecting/RedirectUserToyListCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/CleaningUpWithSavedPets/RefactorToySavingCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/CleaningUpWithSavedPets/RefactorToySavingCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/CreateForm/CreateHtmlFormCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/CreateForm/CreateHtmlFormCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/CreateForm/PostVersusGetMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/CreateForm/PostVersusGetMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/ArrayKeyExistsIssetMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/ArrayKeyExistsIssetMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/CheckHttpMethodCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/CheckHttpMethodCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/FetchPOSTDataCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/FetchPOSTDataCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/PlayingWithSERVERCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/ReadingFormData/PlayingWithSERVERCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/RequestNewPage/RequestPostDataMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/RequestNewPage/RequestPostDataMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/SavingPets/FormSubmitLogicCoding.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/SavingPets/FormSubmitLogicCoding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/SavingPets/JSONEncodeReadableMC.php" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/SavingPets/JSONEncodeReadableMC.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/Challenges/php_worker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/Challenges/php_worker.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/code-cleanup.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/code-cleanup.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/create-form.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/create-form.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/metadata.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/metadata.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/php-ep2.png" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/php-ep2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/reading-form-data.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/reading-form-data.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/redirecting.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/redirecting.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/request-new-page.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/request-new-page.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode2/saving-pets.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode2/saving-pets.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/central-configuration.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/central-configuration.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/how-to-speak-database.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/how-to-speak-database.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/inserting-selecting-data.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/inserting-selecting-data.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/limiting-results.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/limiting-results.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/metadata.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/metadata.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/object-oriented-intro.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/object-oriented-intro.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/optional-function-arguments.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/optional-function-arguments.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/php-ep3.png" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/php-ep3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/php-talks-to-mysql.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/php-talks-to-mysql.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/queries-databases-tables.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/queries-databases-tables.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/query-for-one-pet.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/query-for-one-pet.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/query-parameters.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/query-parameters.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/sql-injection-prepared-statements.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/sql-injection-prepared-statements.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode3/updating-deleting.rst" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode3/updating-deleting.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode4/metadata.yml" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode4/metadata.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knpu/episode4/php-ep4.png" beforeDir="false" afterPath="$PROJECT_DIR$/knpu/episode4/php-ep4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/episode3/pets.sql" beforeDir="false" afterPath="$PROJECT_DIR$/resources/episode3/pets.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/episode3/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/episode3/show.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/pets.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pets.json" afterDir="false" />
-    </list>
+    <list default="true" id="76f2ed86-a394-4917-bf93-acb528681e32" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,15 +17,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
-              <folding>
-                <element signature="e#52#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/composer.lock">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -283,10 +34,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="296" />
-    <option name="y" value="156" />
-    <option name="width" value="1393" />
-    <option name="height" value="792" />
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -344,12 +95,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6124000" />
+    <option name="totallyTimeSpent" value="6247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -362,7 +113,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32212028" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31396535" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,6 +141,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
