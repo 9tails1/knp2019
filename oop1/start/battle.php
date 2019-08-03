@@ -39,7 +39,7 @@ $outcome = battle($ship1, $ship1Quantity, $ship2, $ship2Quantity);
            <!-- Bootstrap -->
            <link href="css/bootstrap.min.css" rel="stylesheet">
            <link href="css/style.css" rel="stylesheet">
-           <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+           <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
            <link href='http://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
            
            <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
