@@ -28,7 +28,8 @@ if ($ship1Quantity <= 0 || $ship2Quantity <= 0) {
 $ship1 = $ships[$ship1Name];
 $ship2 = $ships[$ship2Name];
 $battleManager = new BattleManager();
-$outcome = $battleManager->battle($ship1, $ship1Quantity, $ship2, $ship2Quantity);
+$battleResult = $battleManager->battle($ship1, $ship1Quantity, $ship2, $ship2Quantity);
+//dump($outcome);die();
 ?>
 
 <html>
@@ -68,24 +69,31 @@ $outcome = $battleManager->battle($ship1, $ship1Quantity, $ship2, $ship2Quantity
             <div class="result-box center-block">
                 <h3 class="text-center audiowide">
                     Winner:
-                    <?php if ($outcome['winning_ship']): ?>
-                        <?php echo $outcome['winning_ship']->getName(); ?>
+                    <?php if ($battleResult->isThereAWinner()): ?>
+                        <?php echo $battleResult->getWinningShip()->getName(); ?>
                     <?php else: ?>
                         Nobody
                     <?php endif; ?>
                 </h3>
                 <p class="text-center">
-                    <?php if ($outcome['winning_ship'] == null): ?>
+                    <?php if ($battleResult->getWinningShip() == null): ?>
                         Both ships destroyed each other in an epic battle to the end.
                     <?php else: ?>
-                        The <?php echo $outcome['winning_ship']->getName(); ?>
-                        <?php if ($outcome['used_jedi_powers']): ?>
+                        The <?php echo $battleResult->getWinningShip()->getName(); ?>
+                        <?php if ($battleResult->wereJediPowersUsed()): ?>
                             used its Jedi Powers for a stunning victory!
                         <?php else: ?>
-                            overpowered and destroyed the <?php echo $outcome['losing_ship']->getName() ?>s
+                            overpowered and destroyed the <?php echo $battleResult->getLosingShip()->getName() ?>s
                         <?php endif; ?>
                     <?php endif; ?>
                 </p>
+                <h3>Ship Health</h3>
+                <dl class="dl-horizontal">
+                    <dt><?php echo $ship1->getName(); ?></dt>
+                    <dd><?php echo $ship1->getStrength(); ?></dd>
+                    <dt><?php echo $ship2->getName(); ?></dt>
+                    <dd><?php echo $ship2->getStrength(); ?></dd>
+                </dl>
             </div>
             <a href="/index.php"><p class="text-center"><i class="fa fa-undo"></i> Battle again</p></a>
         

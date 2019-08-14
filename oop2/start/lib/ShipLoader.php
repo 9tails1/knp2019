@@ -5,7 +5,7 @@ class ShipLoader
 {
     public function getShips(): array
     {
-        $ships = array();
+        $ships = [];
 
         $ship = new Ship('Jedi Starfighter');
         //$ship->setName('Jedi Starfighter');

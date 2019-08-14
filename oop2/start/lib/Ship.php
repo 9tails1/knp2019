@@ -29,7 +29,7 @@ class Ship
         echo 'Hello!';
     }
 
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
@@ -43,7 +43,7 @@ class Ship
         $this->strength = $number;
     }
 
-    public function getStrength()
+    public function getStrength(): int
     {
         return $this->strength;
     }

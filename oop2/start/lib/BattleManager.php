@@ -2,7 +2,7 @@
 
 class BattleManager
 {
-    public function battle(Ship $ship1, $ship1Quantity, Ship $ship2, $ship2Quantity): array
+    public function battle(Ship $ship1, $ship1Quantity, Ship $ship2, $ship2Quantity): BattleResult
     {
         $ship1Health = $ship1->getStrength() * $ship1Quantity;
         $ship2Health = $ship2->getStrength() * $ship2Quantity;
@@ -29,6 +29,9 @@ class BattleManager
             $ship2Health = $ship2Health - ($ship1->getWeaponPower() * $ship1Quantity);
         }
 
+        $ship1->setStrength($ship1Health);
+        $ship2->setStrength($ship2Health);
+
         if ($ship1Health <= 0 && $ship2Health <= 0) {
             // they destroyed each other
             $winningShip = null;
@@ -44,11 +47,7 @@ class BattleManager
             $usedJediPowers = $ship1UsedJediPowers;
         }
 
-        return array(
-            'winning_ship' => $winningShip,
-            'losing_ship' => $losingShip,
-            'used_jedi_powers' => $usedJediPowers,
-        );
+        return new BattleResult($usedJediPowers,$winningShip,$losingShip);
     }
 
     private function didJediDestroyShipUsingTheForce(Ship $ship)
