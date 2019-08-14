@@ -1,5 +1,5 @@
 <?php
-require __DIR__.'/functions.php';
+require __DIR__.'/bootstrap.php';
 require_once __DIR__.'/lib/BattleManager.php';
 
 $shipLoader = new ShipLoader();
