@@ -1,8 +1,8 @@
 <?php
 require __DIR__ . '/bootstrap.php';
-//dump($configuration);die;
-$pdo = new PDO($configuration['dbDsn'], $configuration['dbUser'], $configuration['dbPass']);
-$shipLoader = new ShipLoader($pdo);
+
+$container = new Container($configuration);
+$shipLoader = $container->getShipLoader();
 $ships = $shipLoader->getShips();
 
 $errorMessage = '';
